@@ -1,2 +1,53 @@
 Script started on Thu Sep 22 15:27:52 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit status[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   Exercise2/script-2022-09-14.log[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.github/[m
+	[31mExercise3/[m
+	[31mgitCommands.md[m
+	[31mmarkdownGuide.md[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hgit add .status[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .github/workflows/hello.yml[m
+	[32mmodified:   Exercise2/script-2022-09-14.log[m
+	[32mnew file:   Exercise3/exercises.md[m
+	[32mnew file:   Exercise3/typescript[m
+	[32mnew file:   gitCommands.md[m
+	[32mnew file:   markdownGuide.md[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit commit -m ""e"x"e"r"c"i"s"e"3"[?2004l
+[main ce10ff6] exercise3
+ 6 files changed, 207 insertions(+)
+ create mode 100644 .github/workflows/hello.yml
+ create mode 100644 Exercise3/exercises.md
+ create mode 100644 Exercise3/typescript
+ create mode 100644 gitCommands.md
+ create mode 100644 markdownGuide.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit push origin main[?2004l
+Enumerating objects: 15, done.
+Counting objects:   6% (1/15)Counting objects:  13% (2/15)Counting objects:  20% (3/15)Counting objects:  26% (4/15)Counting objects:  33% (5/15)Counting objects:  40% (6/15)Counting objects:  46% (7/15)Counting objects:  53% (8/15)Counting objects:  60% (9/15)Counting objects:  66% (10/15)Counting objects:  73% (11/15)Counting objects:  80% (12/15)Counting objects:  86% (13/15)Counting objects:  93% (14/15)Counting objects: 100% (15/15)Counting objects: 100% (15/15), done.
+Delta compression using up to 8 threads
+Compressing objects:  10% (1/10)Compressing objects:  20% (2/10)Compressing objects:  30% (3/10)Compressing objects:  40% (4/10)Compressing objects:  50% (5/10)Compressing objects:  60% (6/10)Compressing objects:  70% (7/10)Compressing objects:  80% (8/10)Compressing objects:  90% (9/10)Compressing objects: 100% (10/10)Compressing objects: 100% (10/10), done.
+Writing objects:   8% (1/12)Writing objects:  16% (2/12)Writing objects:  25% (3/12)Writing objects:  33% (4/12)Writing objects:  41% (5/12)Writing objects:  50% (6/12)Writing objects:  58% (7/12)Writing objects:  66% (8/12)Writing objects:  75% (9/12)Writing objects:  83% (10/12)Writing objects:  91% (11/12)Writing objects: 100% (12/12)Writing objects: 100% (12/12), 6.92 KiB | 6.92 MiB/s, done.
+Total 12 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: This repository moved. Please use the new location:[K
+remote:   https://github.com/sherzodm8441/CISC3142.git[K
+To https://github.com/sherzodm8441/CISC3142-Exercise1.git
+   5ee34c4..ce10ff6  main -> main
 [1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004h
