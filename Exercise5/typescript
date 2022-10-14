@@ -1,0 +1,46 @@
+Script started on Fri Oct 14 14:02:01 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004h./primeg++ -o prime primeNumbers.cpp[K[A[51C./sod[K[1B[K[A[57Cg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o prime primeNumbers.cpp[K[A[51C./prime[K[1B[K[A[59C       ./primeg++ -o prime primeNumbers.cpp[K[A[51C./prime[K[1B[K[A[59C       ggit status[?2004l[1BOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mtypescript[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004hggir t add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004hgit add .status[10D./prime   g++ -o prime primeNumbers.cpp[K[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004hg++ -o prime primeNumbers.cpp[K[A[51Cgit add .[K[1B[K[A[61Cstatus[10D./prime   [?2004l[1B3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004h./primeg++ -o prime primeNumbers.cpp[K[A[51Cgit add .[K[1B[K[A[61Cstatus[10D./prime   g++ -o prime primeNumbers.cpp[K[A[51C./sod[K[1B[K[A[57Cg++ -o sod sumOfDigits.cpp[?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004hg++ -o sod sumOfDigits.cpp[26D./prime                   [19Dg++ -o prime primeNumbers.cpp[K[A[51Cgit add .[K[1B[K[A[61Cstatus[10D./prime   g++ -o prime primeNumbers.cpp[K[A[51C./sod[K[1B[K[A[57C[?2004l[1BEnter a multiple digit number
+7865
+The sum of the digits of the number is: 26
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004h./sodg++ -o sod sumOfDigits.cpp[26D./prime                   [19Dg++ -o prime primeNumbers.cpp[K[A[51Cgit add .[K[1B[K[A[61Cstatus[10D./prime   g++ -o prime primeNumbers.cpp[K[A[51C./sod[K[1B[K[A[57Cg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26Dcd Exercise5              [14D[9DCISC3142 [8Dcisc[4C[11Dls         [9Dgit pushcommit -m "lab1"[16Dstatus          [10Dadd . status[10Dcd cisc3610[11Dls         [9Dcd Desktop[10Dscript    [1B-[K
+r script[K
+-[K
+$(date +%F).log[K[A[A[A[A[52C[6C --t=script_log -q scriptfile[1B[K[1B[K[1B[K[3A[7C[A[45Cgit status[K[1B[K[A[62C[10Dscript --t=script_log -q scriptfile[K[A[45Cgit status[K[1B[K[A[62Cadd . status[10D./nutrition[11Dg++ -o nutrition nutrition.cpp[K[A[50C./[5P[10C[K[1B[K[A[63C[11Dgit status add . status[10Dscript --t=script_log -q scriptfile[K[A[52C[K[1B-[K[1Br script[K[1B-[K[1B$(date +%F).log[K[4A[37Ccd Desktop[1B[K[1B[K[1B[K[1B[K[4A[62C[10Dls        [8Dcd cisc3610[11Dgit status add . statuscommit -m "lab1"[16Dpush            [12D[8Dls      cd cisc3142[8DCISC[4C[8DExercise5[12Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o sod sumOfDigits.cpp[26D./sod                     [21Dg++ -o prime primeNumbers.cpp[K[A[51C./prime[K[1B[K[A[59Cgit statusadd . [9Dg++ -o prime primeNumbers.cpp[K[A[51C./prime[K[1B[K[A[59Cg++ -o sod sumOfDigits.cpp[26D./sod                     [21D     ./sodg++ -o sod sumOfDigits.cpp.cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp .cpp r.cppe.cppg.cppr.cppe.cpps.cpps.cppi.cppo.cppn.cpp .cppl.cppi.cppn.cppe.cppa.cppr.cpp [K[A[76CR.c[1Bp[A[76Ce.cpp[A[76Cg.cpp[A[76Cr.cppe.cppes.cpps.cppi.cppo.cppn.cpp[?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004h../regression[?2004l
+Intercept: 6
+Slope: 0.1x
+The regression equation is: Ŷ=6+0.1x
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise5[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise5 % [K[?2004h
