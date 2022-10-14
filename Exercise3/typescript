@@ -50,4 +50,42 @@ remote: This repository moved. Please use the new location:[K
 remote:   https://github.com/sherzodm8441/CISC3142.git[K
 To https://github.com/sherzodm8441/CISC3142-Exercise1.git
    5ee34c4..ce10ff6  main -> main
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit commit -m ""f"i"x" "m"d" "f"o"r"m"a"t" [K[A[79Ct"i"in"g"[?2004l
+[main cf0ee4c] fix md formatting
+ 2 files changed, 95 insertions(+), 34 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004hggit push origin main[?2004l
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects:  20% (1/5)Compressing objects:  40% (2/5)Compressing objects:  60% (3/5)Compressing objects:  80% (4/5)Compressing objects: 100% (5/5)Compressing objects: 100% (5/5), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 1.82 KiB | 1.82 MiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+remote: This repository moved. Please use the new location:[K
+remote:   https://github.com/sherzodm8441/CISC3142.git[K
+To https://github.com/sherzodm8441/CISC3142-Exercise1.git
+   ce10ff6..cf0ee4c  main -> main
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004h[7mgit log --since='2 weeks ago'[7m [27m[K[A[50C[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27ms[27mi[27mn[27mc[27me[27m=[27m'[27m2[27m [27mw[27me[27me[27mk[27ms[27m [27ma[27mg[27mo[27m' [?2004l
+[?1h=[33mcommit cf0ee4cd686a088b60c8a782b09241f022663c08[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m[m
+Author: sherzodm8441 <mirsharipovsherzod@gmail.com>[m
+Date:   Thu Sep 22 15:45:13 2022 -0400[m
+[m
+    fix md formatting[m
+[m
+[33mcommit ce10ff6fc9d676e2bab7c131aac7a7eaa90204fe[m[m
+Author: sherzodm8441 <mirsharipovsherzod@gmail.com>[m
+Date:   Thu Sep 22 15:38:32 2022 -0400[m
+[m
+    exercise3[m
+[m
+[33mcommit 5ee34c422bd6da53e1130ad57599a5d3ab5b7706[m[m
+Author: sherzodm8441 <mirsharipovsherzod@gmail.com>[m
+Date:   Wed Sep 14 22:26:23 2022 -0400[m
+[m
+    exercise2[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004h[7mgit log --oneline --decorate [7m-[7m-color --max-count=10 --since='2 weeks ago'[27m[K[A[7C[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27mo[27mn[27me[27ml[27mi[27mn[27me[27m [27m-[27m-[27md[27me[27mc[27mo[27mr[27ma[27mt[27me[27m -[27m-[27mc[27mo[27ml[27mo[27mr[27m [27m-[27m-[27mm[27ma[27mx[27m-[27mc[27mo[27mu[27mn[27mt[27m=[27m1[27m0[27m [27m-[27m-[27ms[27mi[27mn[27mc[27me[27m=[27m'[27m2[27m [27mw[27me[27me[27mk[27ms[27m [27ma[27mg[27mo[27m'[?2004l
+[?1h=[33mcf0ee4c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m fix md formatting[m
+[33mce10ff6[m exercise3[m
+[33m5ee34c4[m exercise2[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air CISC3142 % [K[?2004h

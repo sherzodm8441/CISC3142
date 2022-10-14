@@ -1,2 +1,101 @@
 Script started on Sat Oct  1 22:39:13 2022
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004hggit status[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   3.17[m
+	[32mnew file:   3.17.cpp[m
+	[32mnew file:   3.23[m
+	[32mnew file:   3.23.cpp[m
+	[32mnew file:   4.28[m
+	[32mnew file:   4.28.cpp[m
+	[32mnew file:   inflation[m
+	[32mnew file:   inflation.cpp[m
+	[32mnew file:   nutrition[m
+	[32mnew file:   nutrition.cpp[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../Exercise3/typescript[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mtypescript[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004hgit add .status[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   3.17[m
+	[32mnew file:   3.17.cpp[m
+	[32mnew file:   3.23[m
+	[32mnew file:   3.23.cpp[m
+	[32mnew file:   4.28[m
+	[32mnew file:   4.28.cpp[m
+	[32mnew file:   inflation[m
+	[32mnew file:   inflation.cpp[m
+	[32mnew file:   nutrition[m
+	[32mnew file:   nutrition.cpp[m
+	[32mnew file:   typescript[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../Exercise3/typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004hggit commit -m ""e"x"e"r"c"i"s"e"4"[?2004l
+[main d0b63e4] exercise4
+ 11 files changed, 125 insertions(+)
+ create mode 100755 Exercise4/3.17
+ create mode 100644 Exercise4/3.17.cpp
+ create mode 100755 Exercise4/3.23
+ create mode 100644 Exercise4/3.23.cpp
+ create mode 100755 Exercise4/4.28
+ create mode 100644 Exercise4/4.28.cpp
+ create mode 100755 Exercise4/inflation
+ create mode 100644 Exercise4/inflation.cpp
+ create mode 100755 Exercise4/nutrition
+ create mode 100644 Exercise4/nutrition.cpp
+ create mode 100644 Exercise4/typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004hggit push[?2004l
+Enumerating objects: 15, done.
+Counting objects:   6% (1/15)Counting objects:  13% (2/15)Counting objects:  20% (3/15)Counting objects:  26% (4/15)Counting objects:  33% (5/15)Counting objects:  40% (6/15)Counting objects:  46% (7/15)Counting objects:  53% (8/15)Counting objects:  60% (9/15)Counting objects:  66% (10/15)Counting objects:  73% (11/15)Counting objects:  80% (12/15)Counting objects:  86% (13/15)Counting objects:  93% (14/15)Counting objects: 100% (15/15)Counting objects: 100% (15/15), done.
+Delta compression using up to 8 threads
+Compressing objects:   7% (1/14)Compressing objects:  14% (2/14)Compressing objects:  21% (3/14)Compressing objects:  28% (4/14)Compressing objects:  35% (5/14)Compressing objects:  42% (6/14)Compressing objects:  50% (7/14)Compressing objects:  57% (8/14)Compressing objects:  64% (9/14)Compressing objects:  71% (10/14)Compressing objects:  78% (11/14)Compressing objects:  85% (12/14)Compressing objects:  92% (13/14)Compressing objects: 100% (14/14)Compressing objects: 100% (14/14), done.
+Writing objects:   7% (1/14)Writing objects:  14% (2/14)Writing objects:  21% (3/14)Writing objects:  42% (6/14)Writing objects:  50% (7/14)Writing objects:  57% (8/14)Writing objects:  64% (9/14)Writing objects:  71% (10/14)Writing objects:  78% (11/14)Writing objects:  85% (12/14)Writing objects:  92% (13/14)Writing objects: 100% (14/14)Writing objects: 100% (14/14), 28.13 KiB | 5.63 MiB/s, done.
+Total 14 (delta 6), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/6)[Kremote: Resolving deltas:  16% (1/6)[Kremote: Resolving deltas:  33% (2/6)[Kremote: Resolving deltas:  50% (3/6)[Kremote: Resolving deltas:  66% (4/6)[Kremote: Resolving deltas:  83% (5/6)[Kremote: Resolving deltas: 100% (6/6)[Kremote: Resolving deltas: 100% (6/6), completed with 1 local object.[K
+remote: This repository moved. Please use the new location:[K
+remote:   https://github.com/sherzodm8441/CISC3142.git[K
+To https://github.com/sherzodm8441/CISC3142-Exercise1.git
+   cf0ee4c..d0b63e4  main -> main
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004h[7mgit log --since='2 weeks ago[7m'[7m | pbcopy[27m[K[A[42C[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27ms[27mi[27mn[27mc[27me[27m=[27m'[27m2[27m [27mw[27me[27me[27mk[27ms[27m [27ma[27mg[27mo'[27m [27m|[27m [27mp[27mb[27mc[27mo[27mp[27my[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004h[7m git log --since='2 weeks ag[7mo[7m'[27m[K[A[50C[27m [27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27ms[27mi[27mn[27mc[27me[27m=[27m'[27m2[27m [27mw[27me[27me[27mk[27ms[27m [27ma[27mgo[27m'[?2004l
+[?1h=[33mcommit d0b63e410d485a50a9f140769abad0dedd65369e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m[m
+Author: sherzodm8441 <mirsharipovsherzod@gmail.com>[m
+Date:   Sat Oct 1 22:43:40 2022 -0400[m
+[m
+    exercise4[m
+[m
+[33mcommit cf0ee4cd686a088b60c8a782b09241f022663c08[m[m
+Author: sherzodm8441 <mirsharipovsherzod@gmail.com>[m
+Date:   Thu Sep 22 15:45:13 2022 -0400[m
+[m
+    fix md formatting[m
+[m
+[33mcommit ce10ff6fc9d676e2bab7c131aac7a7eaa90204fe[m[m
+Author: sherzodm8441 <mirsharipovsherzod@gmail.com>[m
+Date:   Thu Sep 22 15:38:32 2022 -0400[m
+[m
+    exercise3[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004h[7mgit log --oneline --decorate[7m [7m--color --max-count=10 --since='2 weeks ago' [27m[K[A[6C[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27mo[27mn[27me[27ml[27mi[27mn[27me[27m [27m-[27m-[27md[27me[27mc[27mo[27mr[27ma[27mt[27me [27m-[27m-[27mc[27mo[27ml[27mo[27mr[27m [27m-[27m-[27mm[27ma[27mx[27m-[27mc[27mo[27mu[27mn[27mt[27m=[27m1[27m0[27m [27m-[27m-[27ms[27mi[27mn[27mc[27me[27m=[27m'[27m2[27m [27mw[27me[27me[27mk[27ms[27m [27ma[27mg[27mo[27m'[K[1C[?2004l
+[?1h=[33md0b63e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m exercise4[m
+[33mcf0ee4c[m fix md formatting[m
+[33mce10ff6[m exercise3[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Sherzods-MacBook-Air.local/Users/sherzodmirsharipov/cisc3142/CISC3142/Exercise4[0m[27m[24m[Jsherzodmirsharipov@Sherzods-MacBook-Air Exercise4 % [K[?2004h
